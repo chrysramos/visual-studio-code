@@ -9,4 +9,7 @@ Microsoft Visual Studio Code Map:
 2) Deletar Linha: CTRL+SHIFT+K
 3)Ativar o terminal do linux dentro do VSCode: CTRL+'
 4)Duplica linha: CTRL+SHIFT+ Seta para baixo
-
+5)Indentar o códgo: SHIFT+ALT+F
+6)Comentar o código/linha selecionado: CTRL+K+C
+7)Descomentar o código/ linha selecionado: CTRL+K+U
+8)Navegar pelas abas: CTRL+TAB
